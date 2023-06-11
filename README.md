@@ -11,14 +11,20 @@ Competição interna Droid
 
 # ✏️Autores(vamos mudar isso depois kakkakakka
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Luis Felipe Hilário Carmona</sub>](https://github.com/Luis-Moon) | 
+| [<img src="https://avatars.githubusercontent.com/u/72164903?s" width=115><br><sub>Luis Felipe Hilário Carmona</sub>](https://github.com/Luis-Moon) | 
 | :---: |
 
 
 
 
-# LINKS BONS
+# ⛓️:LINKS BONS
 
--https://www.alura.com.br/artigos/escrever-bom-readme?gclid=CjwKCAjw4ZWkBhA4EiwAVJXwqSmx_ruq6fui_RZhkUbbNQ51mIECNh9F75Hc7ccTYrz_YpUlE8N_5BoCNlUQAvD_BwE
+-Alura de [Como formartar a GitHub](https://www.alura.com.br/artigos/escrever-bom-readme?gclid=CjwKCAjw4ZWkBhA4EiwAVJXwqSmx_ruq6fui_RZhkUbbNQ51mIECNh9F75Hc7ccTYrz_YpUlE8N_5BoCNlUQAvD_BwE)
 
--https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+-Segundo a GitHub como [Formatar o GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+-DOCUMENTAÇÃO [BRICKS](https://pybricks.com/ev3-micropython/ev3devices.html)
+
+-lego [MODELAGEM]( https://drive.google.com/drive/folders/161Fd-pLG0n634nHifMNx6iq2xMAIGcVq?usp=share_link)
+
+- [VIDEO Simulação Online Lego](https://www.youtube.com/watch?v=uZTqKmDj-9c&ab_channel=TeorianaPráticacomPedro)
