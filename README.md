@@ -19,12 +19,12 @@ Competição interna Droid
 
 # ⛓️:LINKS BONS
 
--Alura de [Como formartar a GitHub](https://www.alura.com.br/artigos/escrever-bom-readme?gclid=CjwKCAjw4ZWkBhA4EiwAVJXwqSmx_ruq6fui_RZhkUbbNQ51mIECNh9F75Hc7ccTYrz_YpUlE8N_5BoCNlUQAvD_BwE)
+- Alura de [Como formartar a GitHub](https://www.alura.com.br/artigos/escrever-bom-readme?gclid=CjwKCAjw4ZWkBhA4EiwAVJXwqSmx_ruq6fui_RZhkUbbNQ51mIECNh9F75Hc7ccTYrz_YpUlE8N_5BoCNlUQAvD_BwE)
 
--Segundo a GitHub como [Formatar o GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- Segundo a GitHub como [Formatar o GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
--DOCUMENTAÇÃO [BRICKS](https://pybricks.com/ev3-micropython/ev3devices.html)
+- DOCUMENTAÇÃO [BRICKS](https://pybricks.com/ev3-micropython/ev3devices.html)
 
--lego [MODELAGEM]( https://drive.google.com/drive/folders/161Fd-pLG0n634nHifMNx6iq2xMAIGcVq?usp=share_link)
+- lego [MODELAGEM]( https://drive.google.com/drive/folders/161Fd-pLG0n634nHifMNx6iq2xMAIGcVq?usp=share_link)
 
 - [VIDEO Simulação Online Lego](https://www.youtube.com/watch?v=uZTqKmDj-9c&ab_channel=TeorianaPráticacomPedro)
